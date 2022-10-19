@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "615426337818",
+    "project_id": "prjrestaurante-e7b81",
+    "storage_bucket": "prjrestaurante-e7b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615426337818:android:2a11d2fa9aca1c177e75a3",
+        "android_client_info": {
+          "package_name": "com.example.apprestaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615426337818-uqcaj33m7skub4nh75sikegt4tatmt83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78uHKwGB94yZvMIbzcLkKPBmvnWMnYI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615426337818-uqcaj33m7skub4nh75sikegt4tatmt83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615426337818:android:ef37d0f9ededf2a07e75a3",
+        "android_client_info": {
+          "package_name": "com.example.restaurantefb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615426337818-uqcaj33m7skub4nh75sikegt4tatmt83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78uHKwGB94yZvMIbzcLkKPBmvnWMnYI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615426337818-uqcaj33m7skub4nh75sikegt4tatmt83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
